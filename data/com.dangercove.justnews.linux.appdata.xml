@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Danger Cove <boy@dangercove.com> -->
+<component type="desktop">
+    <id>com.dangercove.justnews.linux.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Just News</name>
+    <summary>Nothing fancy, just news.</summary>
+    <description>
+        <p>A straight forward, pretty news reader.</p>
+    </description>
+    <custom>
+        <value key="x-appcenter-color-primary">#603461</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+        <value key="x-appcenter-suggested-price">5</value>
+    </custom>
+</component>

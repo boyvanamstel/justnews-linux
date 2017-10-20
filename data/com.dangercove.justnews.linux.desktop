@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Just News
+GenericName=Just News Reader
+Comment=Nothing fancy, just news.
+Categories=Utility;News;
+Exec=com.dangercove.justnews.linux
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=justnews
+Keywords=News;Reader;RSS;
